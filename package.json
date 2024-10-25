@@ -1,0 +1,12 @@
+{
+  "name": "js-crash-course",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "temperature-converter": "node ./functions/temperature-converter/index.js",
+    "guess-number-game": "node ./functions/guess-number-game/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
